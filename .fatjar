@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed Mar 30 22:55:50 CEST 2011
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=blub_fat.jar
+manifest.mergeall=true
+manifest.mainclass=game.GameBootstrap.class
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
